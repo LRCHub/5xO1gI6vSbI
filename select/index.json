@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "二〇一一日本ニテ記ス",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T07:04:48.355474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二〇一一日本ニテ記ス",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_二〇一一日本ニテ記ス_Hilcrhyme.txt"
+    }
+  ]
+}
